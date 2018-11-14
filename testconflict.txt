@@ -1,4 +1,4 @@
 code 
 {
-alpha=
+alpha=hello
 }
